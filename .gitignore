@@ -17,6 +17,8 @@
 !/log/.keep
 !/tmp/.keep
 
+/public/system/movies/images
+
 /node_modules
 /yarn-error.log
 
